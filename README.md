@@ -15,11 +15,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,django,angular" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,django,angular,solidity" />
     <img src="https://skillicons.dev/icons?i=rust,nodejs,python,javascript,mysql,postgres,docker,typescript" /><br>
 </div>
-
-
 
 <br></br>
 [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
