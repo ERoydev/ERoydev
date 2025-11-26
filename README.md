@@ -2,10 +2,10 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emil+Roydev!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Panic!()+enthusiast+👋;+Gas+fee+survivor+⚡️;" />
 </h1>
 
-<h3 align="center" style="color: #3d64ad;">A passionate software developer from Bulgaria!</h3>
+<h3 align="center" style="color: #3d64ad;">Living on-chain, coding off-chain.</h3>
 
 <br/>
 
