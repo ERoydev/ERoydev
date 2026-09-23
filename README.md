@@ -13,7 +13,9 @@
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:FF2079,50:9D4EDD,100:00FFF9&height=3&width=100%)
 
-<h2 align="center" style="font-family: monospace; color: #00FFF9;">&gt; ./stack.sh --lang=rust 🦀</h2>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=1&pause=999999&height=40&color=00FFF9&center=true&vCenter=true&width=550&lines=%3E+./stack.sh+--lang%3Drust+%F0%9F%A6%80" />
+</p>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&labelColor=000000&logo=rust&logoColor=CE422B" />
@@ -32,8 +34,12 @@
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:9D4EDD,100:FF2079&height=3&width=100%)
 
 <br></br>
+<div align="center">
+
 [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ERoydev/ERoydev/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
 
 <br/>
