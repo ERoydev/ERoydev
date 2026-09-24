@@ -25,8 +25,8 @@
 </p>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,angular,react,vscode,git,github&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,python,django,html,css,bootstrap,mysql,postgres,docker&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,solidity,python,react,django,c,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,redhat,linux,aws,gcp,mysql,postgres,docker,mongodb,jenkins&theme=dark" /><br>
 </div>
 
 <br/>
